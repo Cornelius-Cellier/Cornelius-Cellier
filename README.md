@@ -17,12 +17,15 @@
 ---
 
 ### 🛠️ My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,pandas)](https://skillicons.dev)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,gcp,shopify,postgres,dbt,airflow,powerbi,tableau" />
-  </a>
-</p>
+
+#### Data & Analytics
+[![Data & Analytics Skills](https://skillicons.dev/icons?i=python,postgres,aws,gcp,snowflake,powerbi,tableau,dbt,airflow,spark,pandas)](https://skillicons.dev)
+
+#### CI/CD & DevOps
+[![CI/CD & DevOps Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+
+#### Web Development
+[![Web Development Skills](https://skillicons.dev/icons?i=flask,js,webflow,shopify,tailwind)](https://skillicons.dev)
 
 ---
 
