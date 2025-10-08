@@ -19,13 +19,13 @@
 ### 🛠️ My Tech Stack
 
 #### Data & Analytics
-[![Data & Analytics Skills](https://skillicons.dev/icons?i=python,postgres,aws,gcp,snowflake,powerbi,tableau,dbt,airflow,spark,pandas)](https://skillicons.dev)
+[![Data & Analytics Skills](https://skillicons.dev/icons?i=python,postgres,aws,gcp,snowflake,powerbi,tableau,dbt,airflow,spark,pandas,pyspark,scikitlearn&theme=light)](https://skillicons.dev)
 
 #### CI/CD & DevOps
 [![CI/CD & DevOps Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 
 #### Web Development
-[![Web Development Skills](https://skillicons.dev/icons?i=flask,js,webflow,shopify,tailwind)](https://skillicons.dev)
+[![Web Development Skills](https://skillicons.dev/icons?i=flask,js,react,nextjs,webflow,shopify,tailwind)](https://skillicons.dev)
 
 ---
 
