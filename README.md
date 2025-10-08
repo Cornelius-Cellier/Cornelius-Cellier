@@ -32,5 +32,9 @@
 ### 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cornelius-cellier/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="href="https://www.linkedin.com/in/cornelius-cellier/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linkedin"
+    />
+  </a>
 </p>
