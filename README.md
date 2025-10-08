@@ -27,12 +27,12 @@
 
   <h4>Data & Analytics</h4>
   <a href="https://skillicons.dev">
-    <img alt="Data & Analytics Skills" src="https://skillicons.dev/icons?i=python,postgres,aws,gcp,snowflake,powerbi,tableau,dbt,airflow,spark,pandas,pyspark,scikitlearn&theme=dark" />
+    <img alt="Data & Analytics Skills" src="https://skillicons.dev/icons?i=python,postgres,snowflake,powerbi,tableau,dbt,spark,pandas,pyspark,scikitlearn&theme=dark" />
   </a>
 
-  <h4>CI/CD & DevOps</h4>
+  <h4>Cloud native & DevOps</h4>
   <a href="https://skillicons.dev">
-    <img alt="CI/CD & DevOps Skills" src="https://skillicons.dev/icons?i=git,docker&theme=dark" />
+    <img alt="CI/CD & DevOps Skills" src="https://skillicons.dev/icons?i=aws,gcp,airflow,git,docker&theme=dark" />
   </a>
 
   <h4>Web Development</h4>
