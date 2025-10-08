@@ -20,8 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,gcp,shopify,sql,dbt,airflow,powerbi,tableau" />
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,aws,gcp,shopify,postgres,dbt,airflow,powerbi,tableau" />
   </a>
 </p>
 
