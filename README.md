@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm, pandas)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,pandas)](https://skillicons.dev)
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,aws,gcp,shopify,postgres,dbt,airflow,powerbi,tableau" />
