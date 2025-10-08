@@ -21,7 +21,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,aws,gcp,shopify,sql,dbt,airflow,powerbi,tableau" />
-    <img src="https://skillicons.dev/icons?i=tableau" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
