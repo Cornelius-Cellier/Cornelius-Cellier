@@ -29,25 +29,25 @@
 <!-- Data Engineering & Processing -->
 
 <p>
-<a href="https://airflow.apache.org/" target="_blank" >
+<a href="https://airflow.apache.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  alt="airflow" width="40" height="40"/>
 </a>
-<a href="https://www.python.org" target="_blank" >
+<a href="https://www.python.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" >
+<a href="https://www.mysql.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
 </a>
-<a href="https://pandas.pydata.org/" target="_blank" >
+<a href="https://pandas.pydata.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
 </a>
-<a href="https://spark.apache.org/" target="_blank" >
+<a href="https://spark.apache.org/">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/>
 </a>
-<a href="https://scikit-learn.org/" target="_blank" >
+<a href="https://scikit-learn.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="40" height="40"/>
 </a>
-<a href="https://grafana.com" target="_blank" >
+<a href="https://grafana.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"  alt="grafana" width="40" height="40"/>
 </a>
 </p>
@@ -55,30 +55,30 @@
 <!-- Web Dev & Ecommerce -->
 
 <p>
-<a href="https://www.shopify.com" target="_blank" >
+<a href="https://www.shopify.com">
 <img
       src="https://go-skill-icons.vercel.app/api/icons?i=shopify"
      alt="shopify" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank" >
+<a href="https://flask.palletsprojects.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" >
+<a href="https://fastapi.tiangolo.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  alt="fastapi" width="40" height="40"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" >
+<a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" >
+<a href="https://reactjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org" target="_blank" >
+<a href="https://nodejs.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org" target="_blank" >
+<a href="https://www.postgresql.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
 </p>
@@ -86,19 +86,19 @@
 <!-- DevOps & Cloud -->
 
 <p>
-<a href="https://git-scm.com/" target="_blank" >
+<a href="https://git-scm.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://github.com/features/actions" target="_blank" >
+<a href="https://github.com/features/actions">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/" target="_blank" >
+<a href="https://www.docker.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
-<a href="https://cloud.google.com" target="_blank" >
+<a href="https://cloud.google.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
 </a>
-<a href="https://aws.amazon.com" target="_blank" >
+<a href="https://aws.amazon.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"alt="aws" width="40" height="40"/>
 </a>
 </p>
