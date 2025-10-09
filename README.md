@@ -25,14 +25,8 @@
 
   <h3>🛠️ My Tech Stack</h3>
 
-  <h4>Data & Analytics</h4>
   <a href="https://skillicons.dev">
-    <img alt="Data & Analytics Skills" src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
-  </a>
-
-  <h4>Cloud native & DevOps</h4>
-  <a href="https://skillicons.dev">
-    <img alt="CI/CD & DevOps Skills" src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark" />
+    <img alt="Data & Analytics Skills" src="https://skillicons.dev/icons?i=python,aws,gcp&theme=dark" />
   </a>
 
   <h4>Web Development</h4>
