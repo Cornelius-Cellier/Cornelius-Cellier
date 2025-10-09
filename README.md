@@ -16,11 +16,15 @@
     <br />
     💬 Ask me about Shopify development, data engineering, or life on the French coast!
     <br />
-    📫 How to reach me: <b><a data="https://www.linkedin.com/in/cornelius-cellier/">LinkedIn</a></b>
   </p>
 
   <hr />
 
+  <h3>Connect with me</h3>
+
+  <a data="https://www.linkedin.com/in/cornelius-cellier/">
+    <img alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
   <h3>🛠️ My Tech Stack</h3>
 
 ### Languages and Tools
@@ -102,10 +106,6 @@
 </p>
   <hr />
 
-  <h3>Connect with me</h3>
 
-  <a data="https://www.linkedin.com/in/cornelius-cellier/">
-    <img alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
 
 </div>
