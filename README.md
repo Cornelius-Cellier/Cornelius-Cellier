@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi there, I'm Cornélius CELLIER 👋</h1>
 
-<a href="https://www.linkedin.com/in/cornelius-cellier/">
+<a data="https://www.linkedin.com/in/cornelius-cellier/">
   <img align="center" alt="Developer GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZxemVoOTZkbHIzMGd1ZmNzN3Zpbjk3N2o5dmhkZ2FzbnR2dmh4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IDoDo2TeidxKbm/giphy.gif" width="230px"/>
 </a>
 
@@ -16,7 +16,7 @@
     <br />
     💬 Ask me about Shopify development, data engineering, or life on the French coast!
     <br />
-    📫 How to reach me: <b><a href="https://www.linkedin.com/in/cornelius-cellier/">LinkedIn</a></b>
+    📫 How to reach me: <b><a data="https://www.linkedin.com/in/cornelius-cellier/">LinkedIn</a></b>
   </p>
 
   <hr />
@@ -24,61 +24,59 @@
   <h3>🛠️ My Tech Stack</h3>
 
 ### Languages and Tools
-### Languages and Tools
-
-<!-- Data Engineering & Processing -->
+#### Data & data engineering 
 
 <p>
-<a href="https://airflow.apache.org/">
+<a data="https://airflow.apache.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  alt="airflow" width="40" height="40"/>
 </a>
-<a href="https://www.python.org">
+<a data="https://www.python.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://www.mysql.com/">
+<a data="https://www.mysql.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
 </a>
-<a href="https://pandas.pydata.org/">
+<a data="https://pandas.pydata.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
 </a>
-<a href="https://spark.apache.org/">
+<a data="https://spark.apache.org/">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/>
 </a>
-<a href="https://scikit-learn.org/">
+<a data="https://scikit-learn.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="40" height="40"/>
 </a>
-<a href="https://grafana.com">
+<a data="https://grafana.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"  alt="grafana" width="40" height="40"/>
 </a>
 </p>
 
-<!-- Web Dev & Ecommerce -->
+#### 
 
 <p>
-<a href="https://www.shopify.com">
+<a data="https://www.shopify.com">
 <img
       src="https://go-skill-icons.vercel.app/api/icons?i=shopify"
      alt="shopify" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com/">
+<a data="https://flask.palletsprojects.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </a>
-<a href="https://fastapi.tiangolo.com/">
+<a data="https://fastapi.tiangolo.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"  alt="fastapi" width="40" height="40"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a data="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-<a href="https://www.typescriptlang.org/">
+<a data="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
-<a href="https://reactjs.org/">
+<a data="https://reactjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org">
+<a data="https://nodejs.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
-<a href="https://www.postgresql.org">
+<a data="https://www.postgresql.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </a>
 </p>
@@ -86,19 +84,19 @@
 <!-- DevOps & Cloud -->
 
 <p>
-<a href="https://git-scm.com/">
+<a data="https://git-scm.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
-<a href="https://github.com/features/actions">
+<a data="https://github.com/features/actions">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/>
 </a>
-<a href="https://www.docker.com/">
+<a data="https://www.docker.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </a>
-<a href="https://cloud.google.com">
+<a data="https://cloud.google.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
 </a>
-<a href="https://aws.amazon.com">
+<a data="https://aws.amazon.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"alt="aws" width="40" height="40"/>
 </a>
 </p>
@@ -106,7 +104,7 @@
 
   <h3>Connect with me</h3>
 
-  <a href="https://www.linkedin.com/in/cornelius-cellier/">
+  <a data="https://www.linkedin.com/in/cornelius-cellier/">
     <img alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
 
