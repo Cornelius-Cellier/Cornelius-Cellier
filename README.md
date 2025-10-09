@@ -6,6 +6,7 @@
 </a>
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
 
   <h3>I'm a Freelance Developer building digital solutions with a focus on data and automation.</h3>
 
