@@ -33,22 +33,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  alt="airflow" width="40" height="40"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>
 </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.snowflake.com/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="snowflake" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/>
 </a>
 <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/>
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit learn" width="40" height="40"/>
 </a>
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
 <img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
