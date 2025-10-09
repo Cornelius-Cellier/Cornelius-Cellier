@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Cornélius CELLIER 👋</h1>
 
 <a href="https://www.linkedin.com/in/cornelius-cellier/">
-  <img align="right" alt="Developer GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZxemVoOTZkbHIzMGd1ZmNzN3Zpbjk3N2o5dmhkZ2FzbnR2dmh4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IDoDo2TeidxKbm/giphy.gif" width="230px"/>
+  <img align="center" alt="Developer GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZxemVoOTZkbHIzMGd1ZmNzN3Zpbjk3N2o5dmhkZ2FzbnR2dmh4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IDoDo2TeidxKbm/giphy.gif" width="230px"/>
 </a>
 
   <h3>I'm a Freelance Developer building digital solutions with a focus on data and automation.</h3>
