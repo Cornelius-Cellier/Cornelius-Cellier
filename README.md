@@ -25,6 +25,8 @@
   <a data="https://www.linkedin.com/in/cornelius-cellier/">
     <img alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
+
+  <hr />
   <h3>🛠️ My Tech Stack</h3>
 
 ### Languages and Tools
