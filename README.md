@@ -31,7 +31,7 @@
 
   <h4>Web Development</h4>
   <a href="https://skillicons.dev">
-    <img alt="Web Development Skills" src="https://skillicons.dev/icons?i=flask,js,react,nextjs,webflow,shopify,tailwind&theme=dark" />
+    <img alt="Web Development Skills" src="https://skillicons.dev/icons?i=shopifyd&theme=dark" />
   </a>
 
   <hr />
