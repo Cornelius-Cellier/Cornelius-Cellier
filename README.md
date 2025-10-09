@@ -14,8 +14,6 @@
     <br />
     🎓 I hold an <b>MSc in Data Analytics & AI</b> from EDHEC Business School. My thesis was on "Detecting chess cheaters using deata analytics".
     <br />
-    💬 Ask me about Shopify development, data engineering, or life on the French coast!
-    <br />
   </p>
 
   <hr />
@@ -106,8 +104,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"alt="aws" width="40" height="40"/>
 </a>
 </p>
-  <hr />
-
-
 
 </div>
