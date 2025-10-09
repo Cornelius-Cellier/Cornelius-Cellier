@@ -50,7 +50,7 @@
 </a>
 </p>
 
-#### 
+#### Webdev & ecom
 
 <p>
 <a data="https://www.shopify.com">
@@ -81,7 +81,7 @@
 </a>
 </p>
 
-<!-- DevOps & Cloud -->
+#### DevOps & Cloud
 
 <p>
 <a data="https://git-scm.com/">
