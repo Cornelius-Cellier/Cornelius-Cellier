@@ -20,7 +20,7 @@
 
   <h3>Connect with me</h3>
 
-  <a data="https://www.linkedin.com/in/cornelius-cellier/">
+  <a href="https://www.linkedin.com/in/cornelius-cellier/">
     <img alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
 
